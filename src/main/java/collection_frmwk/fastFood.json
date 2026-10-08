@@ -1,0 +1,152 @@
+[
+  {
+    "foodId": 101,
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "price": 299,
+    "quantity": 1,
+    "vegetarian": true,
+    "restaurant": "Pizza Palace",
+    "rating": 4.5
+  },
+  {
+    "foodId": 102,
+    "name": "Veg Burger",
+    "category": "Burger",
+    "price": 149,
+    "quantity": 1,
+    "vegetarian": true,
+    "restaurant": "Burger House",
+    "rating": 4.2
+  },
+  {
+    "foodId": 103,
+    "name": "Chicken Biryani",
+    "category": "Biryani",
+    "price": 249,
+    "quantity": 1,
+    "vegetarian": false,
+    "restaurant": "Biryani Hub",
+    "rating": 4.7
+  },
+  {
+    "foodId": 104,
+    "name": "Paneer Tikka",
+    "category": "Starter",
+    "price": 199,
+    "quantity": 1,
+    "vegetarian": true,
+    "restaurant": "Spice Garden",
+    "rating": 4.4
+  },
+  {
+    "foodId": 105,
+    "name": "Masala Dosa",
+    "category": "South Indian",
+    "price": 120,
+    "quantity": 1,
+    "vegetarian": true,
+    "restaurant": "South Spice",
+    "rating": 4.3
+  },
+  {
+    "foodId": 106,
+    "name": "Butter Chicken",
+    "category": "Main Course",
+    "price": 349,
+    "quantity": 1,
+    "vegetarian": false,
+    "restaurant": "Punjab Kitchen",
+    "rating": 4.6
+  },
+  {
+    "foodId": 107,
+    "name": "Veg Hakka Noodles",
+    "category": "Chinese",
+    "price": 179,
+    "quantity": 1,
+    "vegetarian": true,
+    "restaurant": "Dragon Bowl",
+    "rating": 4.1
+  },
+  {
+    "foodId": 108,
+    "name": "Chicken Momos",
+    "category": "Snacks",
+    "price": 160,
+    "quantity": 1,
+    "vegetarian": false,
+    "restaurant": "Momo Point",
+    "rating": 4.5
+  },
+  {
+    "foodId": 109,
+    "name": "Gulab Jamun",
+    "category": "Dessert",
+    "price": 99,
+    "quantity": 2,
+    "vegetarian": true,
+    "restaurant": "Sweet Corner",
+    "rating": 4.4
+  },
+  {
+    "foodId": 110,
+    "name": "Cold Coffee",
+    "category": "Beverage",
+    "price": 129,
+    "quantity": 1,
+    "vegetarian": true,
+    "restaurant": "Cafe Delight",
+    "rating": 4.2
+  },
+  {
+    "foodId": 111,
+    "name": "Veg Pulao",
+    "category": "Rice",
+    "price": 189,
+    "quantity": 1,
+    "vegetarian": true,
+    "restaurant": "Royal Kitchen",
+    "rating": 4.0
+  },
+  {
+    "foodId": 112,
+    "name": "Fish Curry",
+    "category": "Main Course",
+    "price": 329,
+    "quantity": 1,
+    "vegetarian": false,
+    "restaurant": "Coastal Flavours",
+    "rating": 4.6
+  },
+  {
+    "foodId": 113,
+    "name": "French Fries",
+    "category": "Snacks",
+    "price": 109,
+    "quantity": 1,
+    "vegetarian": true,
+    "restaurant": "Burger House",
+    "rating": 4.1
+  },
+  {
+    "foodId": 114,
+    "name": "Chole Bhature",
+    "category": "North Indian",
+    "price": 159,
+    "quantity": 1,
+    "vegetarian": true,
+    "restaurant": "Delhi Darbar",
+    "rating": 4.5
+  },
+  {
+    "foodId": 115,
+    "name": "Chicken Tandoori",
+    "category": "Starter",
+    "price": 399,
+    "quantity": 1,
+    "vegetarian": false,
+    "restaurant": "Tandoor House",
+    "rating": 4.7
+  }
+]
