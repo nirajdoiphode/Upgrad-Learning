@@ -12,16 +12,21 @@ public class Example1 {
 
         int result= numbers.stream().filter(n->n%2==1).map(n->n*n)
                 .reduce(0,(acc, n)->acc+n);
-
         System.out.println("Sum: "+result);
 
         int max=numbers.stream().mapToInt(n->(int)n).max().orElse(0);
         System.out.println("MAX:"+max);
 
+
+
         List<String> months=Arrays.asList("January","August","March","july","june");
 
         System.out.println("\n\n Months having length greater than 5: ");
         months.stream().filter(n->(n.length())>4).forEach(System.out::println);
+
+
+        System.out.println("\n\n Months starting with J:");
+        months.stream().filter(month->month.startsWith("J")).forEach(month-> System.out.println(month));
 
 
     }
